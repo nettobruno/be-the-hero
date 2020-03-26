@@ -53,3 +53,29 @@ Após ter instalado as dependências necessárias, rode os comandos abaixo em se
   ou
   $ npm start
 ```
+
+### Mobile
+Para que funcione corretamente é necessário que tenha em sua máquina:
+- NodeJS
+- NPM ou Yarn
+- Expo
+<br>
+Após ter instalado as dependências necessárias, rode os comandos abaixo em seu terminal:
+
+```bash
+  # Se você seguiu os passos de instalação do backend já deve ter o clone do projeto, caso contrário execute o seguinte comando:
+  $ git clone https://github.com/nettobruno/be-the-hero.git
+
+  # Entre na pasta frontend
+  $ cd mobile
+
+  # Instale as dependências
+  $ yarn install 
+  ou 
+  $ npm install
+
+  # Rode o projeto em sua máquina
+  $ yarn start
+  ou
+  $ npm start
+```
